@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Hiro, a Product Owner in wealthtech based in Auckland. I grew up in Yokohama and moved to New Zealand in 2012. Since then I've spent 8.5+ years on wealth platforms across New Zealand, Japan, Singapore and Australia, working in English and Japanese.
+I'm Hiro, a Product Owner in wealthtech based in Auckland. I've spent 8.5+ years on wealth platforms across New Zealand, Japan, Singapore and Australia, working in English and Japanese.
 
 I like turning messy, real problems into things people actually use, and I build my own tools to sharpen how I think about product.
 
